@@ -7,8 +7,12 @@ This repository contains a complete sales analysis dashboard built to track Walm
 The main objective of this project is to create an interactive and dynamic dashboard that helps analyze Walmart sales data across multiple dimensions such as:
 - Total Sales
 - Profit
+- Total Sales
+- Total Orders
+- Total Quantity
 - Customer Segments
 - Product Categories
+- Subcategory wise sales
 - Region-wise Performance
 - Time-based Trends
 
@@ -35,9 +39,7 @@ This project helps in understanding sales patterns and supports data-driven deci
 ## 📂 Project Structure
 walmart-dynamic-sales-dashboard/
 │── dataset/
-│── sql_queries/
 │── dashboard/
-│── reports/
 │── README.md
 
 
